@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "PrimeNumberLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PrimeNumberLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeNumberLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PrimeNumberLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PrimeNumberLibrary/PrimeNumberLibrary.csproj",
+      "msbuildProject": "../PrimeNumberLibrary/PrimeNumberLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "PrimeNumberLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\91patham\\.nuget\\packages\\": {},
@@ -36,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\91patham\\Desktop\\Datalogi\\Primtal\\PrimeNumberLibrary\\PrimeNumberLibrary.csproj": {
+              "projectPath": "C:\\Users\\91patham\\Desktop\\Datalogi\\Primtal\\PrimeNumberLibrary\\PrimeNumberLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

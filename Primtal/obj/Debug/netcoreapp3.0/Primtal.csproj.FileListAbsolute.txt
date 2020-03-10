@@ -1,0 +1,14 @@
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\Primtal.exe
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\Primtal.deps.json
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\Primtal.runtimeconfig.json
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\Primtal.runtimeconfig.dev.json
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\Primtal.dll
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\Primtal.pdb
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\obj\Debug\netcoreapp3.0\Primtal.csprojAssemblyReference.cache
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\obj\Debug\netcoreapp3.0\Primtal.AssemblyInfoInputs.cache
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\obj\Debug\netcoreapp3.0\Primtal.AssemblyInfo.cs
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\obj\Debug\netcoreapp3.0\Primtal.dll
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\obj\Debug\netcoreapp3.0\Primtal.pdb
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\PrimeNumberLibrary.dll
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\bin\Debug\netcoreapp3.0\PrimeNumberLibrary.pdb
+C:\Users\91patham\Desktop\Datalogi\Primtal\Primtal\obj\Debug\netcoreapp3.0\Primtal.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\bin\Debug\netstandard2.0\PrimeNumberLibrary.deps.json
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\bin\Debug\netstandard2.0\PrimeNumberLibrary.dll
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\bin\Debug\netstandard2.0\PrimeNumberLibrary.pdb
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\obj\Debug\netstandard2.0\PrimeNumberLibrary.csprojAssemblyReference.cache
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\obj\Debug\netstandard2.0\PrimeNumberLibrary.AssemblyInfoInputs.cache
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\obj\Debug\netstandard2.0\PrimeNumberLibrary.AssemblyInfo.cs
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\obj\Debug\netstandard2.0\PrimeNumberLibrary.dll
+C:\Users\91patham\Desktop\Datalogi\Primtal\PrimeNumberLibrary\obj\Debug\netstandard2.0\PrimeNumberLibrary.pdb
